@@ -1,0 +1,148 @@
+@charset "utf-8";
+/* CSS Document */
+	body {
+		font-family:"Century Ghotic";
+		font-size:16px;
+		color:#999;
+		background:url(../imagem/tecnologia-ajuda-na-cobranca-de-inadimplentes.jpg)
+	}
+	#geral_home {
+		width:940px;
+		height:970px;
+		margin:auto;
+		background:#FFF;
+	}
+	.topo_home {
+		width:930px;
+		height:270px;
+		background:url(../imagem/topo_home.jpg);
+		margin:auto;
+		position:relative;
+		border:#666 solid 5px;
+		border-bottom:#666 solid 5px;
+		border-left:#666 solid 5px;
+		border-right:#666 solid 5px;
+	}
+	.menu {
+		width:940px;
+		margin:auto;
+		height:40px;
+		font-size:18px;
+		background:url(../imagem/barra-de-menu-do-web-site-4951050.jpg);
+	}
+	 .menu ul li {
+		 position:relative;
+		 display:inline;
+		 padding:0 0 0 60px;
+		 top:10px;
+	 }
+	 .menu ul li a {
+		 text-decoration:none;
+		 color:#999;
+		 text-align:justify;
+	 }
+	 .menu ul li a:hover {
+		 text-decoration:underline;
+		 color:#CCC;
+	 }
+	 .menu ul li a.active{
+		 color:#930;
+		 text-decoration:none;
+	 }
+	 .caixa_texto {
+		 width:450px;
+		 height:360px;
+		 float:left;
+		 margin:20px 0 0 20px;
+		 text-align:justify;
+		 line-height:20px;
+	 }
+	 .caixa_texto h1 {
+		 font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+		 font-size:24px;
+		 color:#333;
+	 }
+	 .foto_home {
+	widht: 450px;
+	height: 360px;
+	float: left;
+	margin: 20px 0 0 20px;
+	position: relative;
+	width: 420px;
+	 }
+.foto_home h1 {
+		 font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+		 font-size:24px;
+		 color:#333;
+	 }
+.regua {
+	border: solid 1px #666;
+	margin: 20px;
+	width: 900px;
+	clear: both;
+	font-family: inherit;
+	color: #000;
+}
+.miniaturas {
+	background:url(../imagem/tecnologias.png);
+	width:900px;
+	height:80px;
+	margin:auto;
+}
+.rodape {
+	width:940px;
+	height:120px;
+	float:none;
+	
+	
+}
+
+/* fim da pagina inicial */
+/* inicio da pagina tecfan */
+#geral_home {
+	width: 940px;
+	height: 970px;
+	margin: auto;
+	background: #FFF;
+	}
+#meio_sobre {
+	width: 940px;
+	height: 350px;
+	float: none;
+	position: relative;
+	margin: auto;
+	background-color: #FFFFFF;
+}
+.fundo_sobre {
+	width:940px;
+	height:120px;
+	margin:20px auto;
+	
+}
+#meio_Tecnologias_novas {
+	width: 940px;
+	height: 350px;
+	float: none;
+	position: relative;
+	margin: auto;
+	background-color: #FFFFFF;
+}
+#servicos_meio {
+	width: 940px;
+	height: 480px;
+	float: none;
+	position: relative;
+	margin: auto;
+	background: #FFF;
+}
+.servico_lado {
+	width: 940px;
+	height: 400px;
+	float:left;
+
+	position:relative
+	margin:auto;
+	background: url(../imagem/Typing_computer_screen_reflection.jpg);
+	font-family: inherit;
+}
+	
